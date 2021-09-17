@@ -1,2 +1,3 @@
-# ACLyoukidding
-Bloodhound using Neo4j and Java
+# ACL Traversal with Bloodhound (Neo4j and Java)
+
+
