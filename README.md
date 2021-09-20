@@ -1,4 +1,4 @@
-# ACL Traversal with Bloodhound (Neo4j and Java)
+# AD Pentest with Bloodhound (Neo4j and Java)
 
 ## Installation and Setup
 ### Installing Java
